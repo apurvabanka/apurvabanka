@@ -5,6 +5,7 @@
 
 **Recent Projects**<br>- [**InsightQuery**](https://github.com/apurvabanka/InsightQuery): LLM-first analytics app that turns prompts into stunning data narratives.<br>- [**Forecaster**](https://github.com/apurvabanka/Forcaster): Time-series AI engine for restaurant demand prediction.<br>- [**RagBot**](https://github.com/apurvabanka/RagBot): RAG-powered Discord bot for real-time community Q&A.<br>- [**Warehouse Robot RL**](https://github.com/apurvabanka/warehouse_robot_RL): Reinforcement learning agent for optimized warehouse logistics.<br><br>🎯 I thrive at the intersection of **AI, systems, and user-centric design**. Let's build the future — one repo at a time.<br><br>📫 [LinkedIn](https://www.linkedin.com/in/apurva-banka-301158173/) • [Portfolio](https://apurvabanka.github.io/portfolio)<br>
 
+![snake gif](https://github.com/apurvabanka/apurvabanka/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apurva-banka-301158173) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:appu.banka@gmail.com) 
