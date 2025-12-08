@@ -4,6 +4,7 @@
 **Recent Projects**<br>
 - [**InsightQuery**](https://github.com/apurvabanka/InsightQuery): LLM-first analytics app that turns prompts into stunning data narratives.<br>
 - [**Forecaster**](https://github.com/apurvabanka/Forcaster): Time-series AI engine for restaurant demand prediction.<br>
+- [**Kaggle AutoSolver**](https://github.com/apurvabanka/Kaggle-AutoSolver): An intelligent, production-grade agentic system that autonomously solves Kaggle competitions using LangGraph.<br>
 - [**Perplexity 2.0**](https://github.com/apurvabanka/perplexity_2.0.git): A small experimental assistant that combines a Next.js frontend with a FastAPI backend using LangChain / LangGraph.<br>
 - [**RagBot**](https://github.com/apurvabanka/RagBot): RAG-powered Discord bot for real-time community Q&A.<br>
 - [**Warehouse Robot RL**](https://github.com/apurvabanka/warehouse_robot_RL): Reinforcement learning agent for optimized warehouse logistics.<br>
